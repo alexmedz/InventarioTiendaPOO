@@ -24,6 +24,3 @@ Este proyecto es un sistema de gestión de inventario para una tienda, desarroll
 
 ---
 
-## Estructura del proyecto
-
-El proyecto está organizado de la siguiente manera:
